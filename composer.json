@@ -1,0 +1,11 @@
+{
+  "name": "Freelway",
+  "description": "Freelway info",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Victor Schelin",
+      "email": "victor@adaptivemedia.se"
+    }
+  ]
+}
